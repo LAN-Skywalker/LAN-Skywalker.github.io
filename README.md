@@ -6,4 +6,4 @@ GBA Emulator is a free, online GBA emulator! I have 50+ Games to play!
 
 # GBA Emulator Website
 
-https://LAN-Skywalker.github.io/GBA-Emulator/
+https://LAN-Skywalker/LAN-Skywalker.github.io/GBA-Emulator/
